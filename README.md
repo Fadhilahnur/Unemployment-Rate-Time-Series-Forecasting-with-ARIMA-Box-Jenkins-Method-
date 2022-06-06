@@ -1,0 +1,2 @@
+# Unemployment-Rate-Time-Series-Forecasting-with-ARIMA-Box-Jenkins-Method-
+The change of unemployment rate is affected by the economic transformation that had taken place whether the economy is in recession or booming. This project is to see how important unemployment towards Malaysian economy and how COVID- 19 pandemic affects the unemployment. Other than that, it is also to analysis the forecast for unemployed that are obtained from ARIMA data.
